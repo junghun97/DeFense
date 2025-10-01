@@ -1,4 +1,4 @@
-# DeFense: Feature-anchored Robust Node Classification under Joint Label-Structure Noise
+# DeFense: Decoupled Feature Anchors for Robust Node Classification under Joint Label-Structure Noise
 
 This is the official implementation of **DeFense** (*DEcoupled FEature aNChors for robust nodE classification*), submitted to WWW 2026.
 
